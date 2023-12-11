@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(42, 42, 42) !important;
+}
+.dash{
+    position: fixed;
+    bottom: 0;
+    top: 0;
+    left: 0;
+    z-index: 10 !important;
+}
+.active{
+    background-color:  #466f20 !important;
+}
+.loginContainer{
+    width: 50%;
+}
+.loginHeader{
+    color: #b2f177 !important;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 40px;
+    font-style: italic;
+}
