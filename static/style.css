@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(42, 42, 42) !important;
+}
+a{
+    text-decoration: none !important;
+    color: #b2f177 !important;
+}
+a:hover{
+    color: #8cbc5e !important;
+}
+.imgContainer{
+    height: 100%;
+    border-radius: 15px;
+    background-color: #466f20;
+}
+.imgContainer svg{
+    width: 700px;
+}
+.loginContainer{
+    width: 90%;
+    height: 80vh;
+    border-radius: 20px;
+    border: 1px solid white;
+}
+.loginHeader{
+    color: #b2f177 !important;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 40px;
+    font-style: italic;
+}
+.submitButton{
+    background-color: #466f20 !important;
+    border: #466f20 !important;
+}
+.submitButton:hover{
+    background-color: #486131 !important;
+    border: #466f20 !important;
+}
+.registerLink{
+    font-size: 13px;
+    color: white;
+}
