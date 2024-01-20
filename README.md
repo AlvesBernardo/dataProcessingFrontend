@@ -1,2 +1,0 @@
-# dataProcessingFrontend
-Frontend code only
